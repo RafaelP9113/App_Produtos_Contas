@@ -5996,11 +5996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\Rafa\\C#\\contas_fornecedores_produto\\contas_fornecedores_produto\\contas_fornecedores_produto\\contas_fornecedores_produto.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\Rafa\\C#\\contas_fornecedores_produto\\App_Produtos_Contas\\contas_fornecedores_produto\\contas_fornecedores_produto\\contas_fornecedores_produto.csproj",
       "projectName": "contas_fornecedores_produto",
-      "projectPath": "C:\\Users\\Rafael\\Desktop\\Rafa\\C#\\contas_fornecedores_produto\\contas_fornecedores_produto\\contas_fornecedores_produto\\contas_fornecedores_produto.csproj",
+      "projectPath": "C:\\Users\\Rafael\\Desktop\\Rafa\\C#\\contas_fornecedores_produto\\App_Produtos_Contas\\contas_fornecedores_produto\\contas_fornecedores_produto\\contas_fornecedores_produto.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael\\Desktop\\Rafa\\C#\\contas_fornecedores_produto\\contas_fornecedores_produto\\contas_fornecedores_produto\\obj\\",
+      "outputPath": "C:\\Users\\Rafael\\Desktop\\Rafa\\C#\\contas_fornecedores_produto\\App_Produtos_Contas\\contas_fornecedores_produto\\contas_fornecedores_produto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",

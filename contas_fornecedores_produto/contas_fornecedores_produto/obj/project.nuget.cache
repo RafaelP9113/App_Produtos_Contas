@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vza7ehY5qoarbBam+nYEq38KS9lRRXSkn7fHLT1yA1eUkrJ27drGsFLVHTuYBwfSQ58REMyAEcQ3+o6bppllyQ==",
+  "dgSpecHash": "T++iwd3RlcE3Warc081UAMxXrsCewf9NLJjOMdON9EhGjgmc+Gaje5gApwJpNB+G+zn6YBBvWVbXNTH4kGaKAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael\\Desktop\\Rafa\\C#\\contas_fornecedores_produto\\contas_fornecedores_produto\\contas_fornecedores_produto\\contas_fornecedores_produto.csproj",
+  "projectFilePath": "C:\\Users\\Rafael\\Desktop\\Rafa\\C#\\contas_fornecedores_produto\\App_Produtos_Contas\\contas_fornecedores_produto\\contas_fornecedores_produto\\contas_fornecedores_produto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",
