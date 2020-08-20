@@ -10,3 +10,6 @@ Tela de visualização e consulta de conta/fornecedores/produtos, atrelado ao CR
 
 ## Tela de Contas
 ![Tela_Contas](https://user-images.githubusercontent.com/65605919/90703881-5abafe80-e265-11ea-964e-fc12afaa69ee.png)
+
+## CRUD MySQL
+![SCRUD_MySQL](https://user-images.githubusercontent.com/65605919/90703938-7c1bea80-e265-11ea-9c9b-a86c0b70ba5d.png)
